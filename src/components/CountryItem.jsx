@@ -11,7 +11,7 @@ function CountryItem({ country }) {
 	};
 
 	return (
-		<li className={styles.countryItem}>
+		<li className={styles.countryItem} key={country.id}>
 			<span>{flagemojiToPNG(country.emoji)}</span>
 			<span>{country.country}</span>
 		</li>

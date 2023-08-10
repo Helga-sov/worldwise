@@ -1,40 +1,52 @@
 {
-	"cities": [
-		{
-			"cityName": "Lisbon",
-			"country": "Portugal",
-			"emoji": "🇵🇹",
-			"date": "2027-10-31T15:59:59.138Z",
-			"notes": "My favorite city so far!",
-			"position": {
-				"lat": 38.727881642324164,
-				"lng": -9.140900099907554
-			},
-			"id": 73930385
-		},
-		{
-			"cityName": "Madrid",
-			"country": "Spain",
-			"emoji": "🇪🇸",
-			"date": "2027-07-15T08:22:53.976Z",
-			"notes": "",
-			"position": {
-				"lat": 40.46635901755316,
-				"lng": -3.7133789062500004
-			},
-			"id": 17806751
-		},
-		{
-			"cityName": "Berlin",
-			"country": "Germany",
-			"emoji": "🇩🇪",
-			"date": "2027-02-12T09:24:11.863Z",
-			"notes": "Amazing 😃",
-			"position": {
-				"lat": 52.53586782505711,
-				"lng": 13.376933665713324
-			},
-			"id": 98443197
-		}
-	]
+  "cities": [
+    {
+      "cityName": "Ireland",
+      "country": "Ireland",
+      "emoji": "🇮🇪",
+      "date": "2023-08-10T10:23:52.316Z",
+      "notes": "test",
+      "position": {
+        "lat": "53.35710874569601",
+        "lng": "-5.9326171875"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Brussels",
+      "country": "Belgium",
+      "emoji": "🇧🇪",
+      "date": "2023-08-10T10:26:50.923Z",
+      "notes": "ttt",
+      "position": {
+        "lat": "50.8510411296595",
+        "lng": "4.386291503906251"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Chisinau",
+      "country": "Moldova (the Republic of)",
+      "emoji": "🇲🇩",
+      "date": "2023-08-10T10:27:32.137Z",
+      "notes": "yyy",
+      "position": {
+        "lat": "47.03082254778665",
+        "lng": "28.910522460937504"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Vinnytsya",
+      "country": "Ukraine",
+      "emoji": "🇺🇦",
+      "date": "2023-08-10T10:34:32.283Z",
+      "notes": "fgjghj",
+      "position": {
+        "lat": "49.2355341957325",
+        "lng": "28.54522705078125"
+      },
+      "id": 98443203
+    }
+  ]
 }
